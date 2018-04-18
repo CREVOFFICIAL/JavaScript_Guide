@@ -57,4 +57,4 @@ Object
 
 
 ### Object
-- object detail
+- object detail // okay
