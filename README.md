@@ -57,6 +57,4 @@ Object
 
 
 ### Object
-
--- hlelo
--- hello hleeo
+- object detail // okay
