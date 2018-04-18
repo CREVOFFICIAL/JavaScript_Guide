@@ -11,7 +11,7 @@
 
 ## 목차
 - [HTML & CSS](#HTML&CSS)
-- [JavaScript](#JavaScript)
+- [JavaScript](#javascript)
 - [swift](#swfit)
 - [python](#python)
 - OS
@@ -54,9 +54,3 @@ Object
 - Array
 - Function
 - 정규표현식
-
-
-
-
-
- 
