@@ -57,5 +57,4 @@ Object
 
 
 ### Object
-
---
+- object detail
